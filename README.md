@@ -43,16 +43,6 @@ PPO empowers parachain developers, infrastructure providers, and cross-chain dAp
 
 ---
 
-## 📂 Repository Structure
-/
-├── dashboard/          # Frontend UI (React + Tailwind)
-├── backend/            # Rust backend service for API & streaming
-├── sdk/                # Substrate telemetry SDK (Rust crate)
-├── docs/
-│   └── architecture.md # PPO system design & data flow
-├── README.md
-├── LICENSE
-└── .gitignore
 ---
 
 ## 🚀 Getting Started
@@ -80,8 +70,9 @@ cargo run
 
 ## 🌐 Live Demo
 
-Demo: https://your-demo-url.com  
-Repo: https://github.com/stepouslabs/polkadot-parachain-observatory
+Demo: https://polkadot-parachain-observatory.vercel.app/
+Repo: https://github.com/harshdev2909/polkadot-parachain-observatory
+stepous-labs: https://stepous-labs.vercel.app
 
 ⸻
 
