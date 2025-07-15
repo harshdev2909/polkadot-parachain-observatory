@@ -70,8 +70,10 @@ cargo run
 
 ## 🌐 Live Demo
 
-Demo: https://polkadot-parachain-observatory.vercel.app/
+Demo: https://polkadot-parachain-observatory.vercel.app
+
 Repo: https://github.com/harshdev2909/polkadot-parachain-observatory
+
 stepous-labs: https://stepous-labs.vercel.app
 
 ⸻
